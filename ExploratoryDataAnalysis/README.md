@@ -3,7 +3,7 @@ There are two projects :
 1) Both of them deal with data cleaning and extensive exploratory data analysis
 2) Both the projects were done using python
 
-***GDP ASSIGNMENT***
+***GDP ANALYSIS***
 
 The data is sourced from https://data.gov.in/, an Open Government Data (OGD) platform of India. The data for GDP analysis of the Indian states is divided into two parts:
 
