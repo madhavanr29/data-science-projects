@@ -1,3 +1,1 @@
-# data-science-projects
-
-## This repository contains my projects implemented in python. Jupyter notebook has been used and clear markdowns have been presented for each project so that even an average reader and enthusiast can understand what i am presenting
+# This repository contains multiple projects implemented in Python. Jupyter notebook has been used and clear markdowns have been presented. Lead Scoring, Customer Segmentation, Credit Card Fraud Detection, GDP Analysis, Stock Market Analysis are some of the use cases.
